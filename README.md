@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-In this project, I've trained an object detection model on a custom dataset to find the number of RBC, WBC, PLATELETS Count from the microscopic blood-smeared images.
+In this project, I've trained an object detection model on a custom dataset to find the number of RBC, WBC, PLATELETS Count from the microscopic blood-smeared images.Dataset available at [here](https://github.com/Shenggan/BCCD_Dataset)
 
 Simply start the training and validation here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Yolo-v5_Object-Detection_Blood_Cell_Count/blob/master/codes/BCC%20Training%20%26%20Testing%20-%20Yolo-v5.ipynb) and to begin inference  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Yolo-v5_Object-Detection_Blood_Cell_Count/blob/master/codes/BCC%20INFERENCE%20Yolo-v5.ipynb)
 

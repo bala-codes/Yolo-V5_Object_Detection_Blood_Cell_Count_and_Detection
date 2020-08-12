@@ -1,4 +1,4 @@
-# Yolo-v5_Object-Detection_Blood_Cell_Count_and_Detection
+# Yolo-v5 Object-Detection Blood Cell Count and Detection
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 

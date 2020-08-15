@@ -23,12 +23,7 @@ Excerpts :
 and 
 <img src="https://github.com/bala-codes/Yolo-v5_Object-Detection_Blood_Cell_Count/blob/master/imgs/output1.PNG" width="100%">
 
-
-<br />
-<br />
 ### Languages and Tools:
-
-
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
 [<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
 " />][webdevplaylist]
@@ -40,8 +35,6 @@ and
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
-<br />
-<br />
 ### Connect with me:
 
 [<img align="left" alt="Balakrishna Kumar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]

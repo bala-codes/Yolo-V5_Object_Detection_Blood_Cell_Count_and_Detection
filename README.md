@@ -1,4 +1,5 @@
 # Yolo-v5 Object-Detection Blood Cell Count and Detection
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 In this project, I've trained an object detection model on a custom dataset to find the number of RBC, WBC, PLATELETS Count from the microscopic blood-smeared images. Original Dataset available at [here](https://github.com/Shenggan/BCCD_Dataset).
@@ -21,3 +22,11 @@ Excerpts :
 <img src="https://github.com/bala-codes/Yolo-v5_Object-Detection_Blood_Cell_Count/blob/master/imgs/output.PNG" width="100%">
 and 
 <img src="https://github.com/bala-codes/Yolo-v5_Object-Detection_Blood_Cell_Count/blob/master/imgs/output1.PNG" width="100%">
+
+### Connect with me:
+
+[<img align="left" alt="Balakrishna Kumar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail](mailto:balakrishnakumar.v@gmail.com)
+[<img align="left" alt="Balakrishna Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com/im_balakrishna)
+[<img align="left" alt="Balakrishna Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/balakrishnakumar-v/)
+[<img align="left" alt="Balakrishna Kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium](https://medium.com/@balakrishnakumar.v)
+<br />

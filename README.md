@@ -25,8 +25,12 @@ and
 
 ### Connect with me:
 
-[<img align="left" alt="Balakrishna Kumar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail](mailto:balakrishnakumar.v@gmail.com)
-[<img align="left" alt="Balakrishna Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com/im_balakrishna)
-[<img align="left" alt="Balakrishna Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/balakrishnakumar-v/)
-[<img align="left" alt="Balakrishna Kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium](https://medium.com/@balakrishnakumar.v)
-<br />
+[<img align="left" alt="Balakrishna Kumar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Balakrishna Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Balakrishna Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Balakrishna Kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+
+[gmail]: mailto:balakrishnakumar.v@gmail.com
+[twitter]: https://twitter.com/im_balakrishna
+[linkedin]: https://www.linkedin.com/in/balakrishnakumar-v/
+[Medium]: https://medium.com/@balakrishnakumar.v

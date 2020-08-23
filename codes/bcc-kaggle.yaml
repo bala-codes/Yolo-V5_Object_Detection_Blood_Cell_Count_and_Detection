@@ -1,0 +1,4 @@
+train: /kaggle/working/Yolo-V5_Object_Detection_Blood_Cell_Count_and_Detection/dataset-preprocessed/bcc/images/train
+val: /kaggle/working/Yolo-V5_Object_Detection_Blood_Cell_Count_and_Detection/dataset-preprocessed/bcc/images/valid
+nc: 3
+names: ['Platelets', 'RBC', 'WBC']
